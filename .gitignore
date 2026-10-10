@@ -1,0 +1,17 @@
+# Developer notes — internal only, not for version control
+DEV_NOTES.md
+
+# Android/Gradle build output
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# OS/editor junk
+.DS_Store
